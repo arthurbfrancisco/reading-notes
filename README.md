@@ -18,4 +18,4 @@
    2. Be a student for life
    3. Ask for help
    
-    [Check out my Github](https://github.com/arthurbfrancisco)
+    [My Github](https://github.com/arthurbfrancisco)
