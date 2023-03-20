@@ -1,9 +1,5 @@
-# reading-notes
-102codefellow notes/cheat sheet journal
-
 # Hello everyone 🖐️! 
-#### My name is [Arthur](https://arthurbfrancisco.github.io/reading-notes/), but you can call me Art.
-###### I'm based in Sacramento, California, where I'm making the most of the great weather and focusing on developing my coding skills to become a proficient programmer. Currently, I'm delving into the basics of HTML and CSS. My ultimate objective is to establish a career as a full-stack developer specializing in Python.
+#### My name is [Arthur](https://arthurbfrancisco.github.io/reading-notes/), but you can call me Art. I'm based in Sacramento, California, where I'm making the most of the great weather and focusing on developing my coding skills to become a proficient programmer. Currently, I'm delving into the basics of HTML and CSS. My ultimate objective is to establish a career as a full-stack developer specializing in Python.
 ---
 #### This site is for reading-notes for class
 - 📚 Learning the vocabulary
