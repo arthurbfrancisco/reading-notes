@@ -18,4 +18,4 @@ Having a __"Growth Mindset"__  means believing that you can learn and improve, e
    2. Be a student for life
    3. Ask for help
    
-    [My Github](https://github.com/arthurbfrancisco)
+ [My Github](https://github.com/arthurbfrancisco)
