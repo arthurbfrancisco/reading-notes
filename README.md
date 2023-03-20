@@ -16,6 +16,6 @@
    
    1. Embrace failure
    2. Be a student for life
-   3. Be open to trying new ways to solving a problem
+   3. Ask for help
    
     [Link to my Github:](https://github.com/arthurbfrancisco)
