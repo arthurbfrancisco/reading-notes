@@ -12,7 +12,7 @@
 #### Why a "Growth Mindset" is Vital to Achieving Your Goals
 Having a __"Growth Mindset"__  means believing that you can learn and improve, even when things are difficult. This mindset helps you to overcome challenges, learn from your mistakes, and keep working towards your goals. By embracing a Growth Mindset, you can develop important skills like resilience, adaptability, and determination that will help you succeed in school and in life.
 
-### Top Three concept to practice Growth Mindset!
+### Top three concepts to practice a Growth Mindset!
    
    1. Embrace failure
    2. Be a student for life
