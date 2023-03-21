@@ -20,35 +20,18 @@
 * mkdir: The mkdir command is used to create a new directory
 * touch: The touch command is used to create a new file
 
+### Output for this commands:
+* cd projects: This command changes the current working directory to a directory called projects. It assumes that there is a * directory called projects in the current directory
+* mkdir new-project: This command creates a new directory called new-project inside the projects directory. It uses the mkdir command, which stands for "make directory
+* touch new-project/newfile.md: This command creates a new file called newfile.md inside the new-project directory. It uses the touch command, which creates a new file with the specified name
+* cd ..: : This command changes the current working directory to the parent directory of the current directory. In this case, it will take you back to the directory that contains the projects directory
+* ls projects/new-project: This command lists the contents of the new-project directory that is located inside the projects directory. It uses the ls command to list the contents of a directory
+**The final output in the terminal will show the contents of the new-project directory, which should be the newfile.md file that was created in step 3**
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-What are four important features to look for in a text editor?
-What do the following commands do?
-pwd
-ls
-cd
-mkdir
-touch
-Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-cd projects
-mkdir new-project
-touch new-project/newfile.md
-cd ..
-ls projects/new-project
-Submission Instructions
 Share what you’ve learned by copying and pasting the full text of your new rendered web page into the ‘Reply’ below.
 Include the live URL of the new page below your pasted text. (Hint: The URL of the page should begin with YOUR GitHub username, not “github.com”)
 You are invited to check out your classmates’ replies and give positive feedback and words of encouragement.
