@@ -21,7 +21,7 @@ When you give an element extra information, it's called adding "attributes" to t
 
 For example, in the following HTML code, the **src and alt attributes** provide extra information about the image element:
 
-## Semantic Element
+## [Semantic Element](https://www.w3schools.com/html/html5_semantic_elements.asp)
 Semantic elements in websites are like special containers that help organize different parts of a page based on their purpose. Imagine a newspaper, where you have sections like headlines, articles, and images. In a similar way, these containers help us create meaningful sections on a web page, making it easier for both people and computers to understand the layout and the purpose of each part.
 
 Semantic elements in websites are like special containers that help organize different parts of a page based on their purpose. Imagine a newspaper, where you have sections like headlines, articles, and images. In a similar way, these containers help us create meaningful sections on a web page, making it easier for both people and computers to understand the layout and the purpose of each part.
