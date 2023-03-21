@@ -12,7 +12,13 @@
 * Customizability: Customizability is a feature that allows you to configure the text editor to your specific needs and preferences. This can include things like key bindings, color schemes, and plugins or extensions. A highly customizable text editor can help you work more efficiently and comfortably.
 
 
+### COMMAND AND OUTPUT TERMINAL EXAMPLE
 
+* pwd: The pwd command is used to print the current working directory
+* ls: The ls command is used to list the contents of a directory. Here's an example of how to use it
+* cd:  The cd command is used to change the current working directory. Here's an example of how to use it
+* mkdir: The mkdir command is used to create a new directory
+* touch: The touch command is used to create a new file
 
 
 
