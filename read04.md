@@ -17,7 +17,7 @@ HTML stands for "HyperText Markup Language." Imagine it as a digital language us
 
 ## EXTRA INFORMATION FOR SPECIFIC ELEMENT:
 
-When you give an element extra information, it's called adding "attributes" to the element. Attributes are used within the opening tag of an HTML element to provide additional details or settings. They usually come in a key-value pair format, with the attribute name followed by an equal sign and the attribute value enclosed in quotes.
+When you give an element extra information, it's called adding ["attributes"](https://www.w3schools.com/html/html_attributes.asp) to the element. Attributes are used within the opening tag of an HTML element to provide additional details or settings. They usually come in a key-value pair format, with the attribute name followed by an equal sign and the attribute value enclosed in quotes.
 
 For example, in the following HTML code, the **src and alt attributes** provide extra information about the image element:
 
