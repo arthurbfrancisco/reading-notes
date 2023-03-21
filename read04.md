@@ -15,10 +15,11 @@ HTML stands for "HyperText Markup Language." Imagine it as a digital language us
 
 3. Body: The body is the main part of the HTML document, where you put all the content that will be visible to users on the webpage. It is enclosed within the body tags. This is where you'll use various HTML tags to create headings, paragraphs, images, links, lists, tables, and other elements to build the structure and content of the page.
 
+## EXTRA INFORMATION FOR SPECIFIC ELEMENT:
 
+When you give an element extra information, it's called adding "attributes" to the element. Attributes are used within the opening tag of an HTML element to provide additional details or settings. They usually come in a key-value pair format, with the attribute name followed by an equal sign and the attribute value enclosed in quotes.
 
+For example, in the following HTML code, the **src and alt attributes** provide extra information about the image element:
 
-
-What are the 3 main parts of an HTML element?
-What is it called when you give an element extra information?
-What is a semantic element?
+## Semantic Element
+Semantic elements in websites are like special containers that help organize different parts of a page based on their purpose. Imagine a newspaper, where you have sections like headlines, articles, and images. In a similar way, these containers help us create meaningful sections on a web page, making it easier for both people and computers to understand the layout and the purpose of each part.
