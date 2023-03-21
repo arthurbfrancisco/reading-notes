@@ -11,7 +11,7 @@
 
 ### The three symbols to can use to create an unordered (bulleted) list with Markdown are:
 
-### 1. **Asterisk (*)**
-### 2. **Plus sign (+)**
-### 3. **Hyphen/minus sign (-)**
+* ### **Asterisk (*)**
+* ### **Plus sign (+)**
+* ### **Hyphen/minus sign (-)**
 
