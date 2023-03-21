@@ -24,8 +24,9 @@
 * cd projects: This command changes the current working directory to a directory called projects. It assumes that there is a * directory called projects in the current directory
 * mkdir new-project: This command creates a new directory called new-project inside the projects directory. It uses the mkdir command, which stands for "make directory
 * touch new-project/newfile.md: This command creates a new file called newfile.md inside the new-project directory. It uses the touch command, which creates a new file with the specified name
-* cd ..: : This command changes the current working directory to the parent directory of the current directory. In this case, it will take you back to the directory that contains the projects directory
+* cd ..: This command changes the current working directory to the parent directory of the current directory. In this case, it will take you back to the directory that contains the projects directory
 * ls projects/new-project: This command lists the contents of the new-project directory that is located inside the projects directory. It uses the ls command to list the contents of a directory
+
 **The final output in the terminal will show the contents of the new-project directory, which should be the newfile.md file that was created in step 3**
 
 
