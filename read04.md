@@ -13,7 +13,7 @@ HTML stands for "HyperText Markup Language." Imagine it as a digital language us
 
 2. The [head tag](https://www.w3schools.com/tags/tag_head.asp#:~:text=The%20element%20is%20a,scripts%2C%20and%20other%20meta%20information.) is the section of the document that contains metadata, which is information about the page that isn't displayed directly on the webpage. The head is enclosed within tags. It typically includes the page title (displayed in the browser's title bar or tab), character encoding, links to stylesheets or scripts, and other information useful for browsers or search engines.
 
-3. Body: The body is the main part of the HTML document, where you put all the content that will be visible to users on the webpage. It is enclosed within the body tags. This is where you'll use various HTML tags to create headings, paragraphs, images, links, lists, tables, and other elements to build the structure and content of the page.
+3. [Body:](https://www.w3schools.com/tags/tag_body.asp)The body is the main part of the HTML document, where you put all the content that will be visible to users on the webpage. It is enclosed within the body tags. This is where you'll use various HTML tags to create headings, paragraphs, images, links, lists, tables, and other elements to build the structure and content of the page.
 
 ## EXTRA INFORMATION FOR SPECIFIC ELEMENT:
 
