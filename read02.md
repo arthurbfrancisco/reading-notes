@@ -1,3 +1,34 @@
+# Read: 02 - The Coder's Computer/Terminal
+
+### **4 Important** feature to look for in text editor!
+
+
+* Syntax highlighting: Syntax highlighting is a feature that color-codes different elements of code, making it easier to read and understand. It can help you spot errors in your code more quickly and avoid mistakes.
+
+* Auto-indentation: Auto-indentation is a feature that automatically indents code as you type, making it easier to read and understand the structure of your code. This can help you write cleaner, more readable code.
+
+* Auto-completion: Auto-completion is a feature that suggests code elements as you type, based on the language you're working in. It can help you write code more quickly and avoid typos.
+
+* Customizability: Customizability is a feature that allows you to configure the text editor to your specific needs and preferences. This can include things like key bindings, color schemes, and plugins or extensions. A highly customizable text editor can help you work more efficiently and comfortably.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 What are four important features to look for in a text editor?
 What do the following commands do?
 pwd
