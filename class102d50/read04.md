@@ -4,6 +4,7 @@ readme-notes read04(HTML)
 # Structure of a Web Pages using HTML
 
 ### HTML(HyperText Markup Language):
+
 HTML stands for "HyperText Markup Language." Imagine it as a digital language used to create and organize the content of a website, like a *skeleton* that gives structure to a web page.In HTML, we use things called "tags" to create different elements on a web page, such as paragraphs, headings, images, and links. Tags are like labels that tell the web browser how to display the content.
 
 ### By using a combination of tags, you can create a variety of content and build an entire website. When you visit a website, your browser reads the HTML code and displays the content according to the instructions provided by the tags.
