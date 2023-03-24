@@ -23,8 +23,8 @@ Class 102
 4. [Reading04: HTML/syntax](class102d50/read04.md)
 5. [Reading05: CSS](class102d50/read05.md)
 6. [Reading06: Javascript](class102d50/read06.md)
-7. [Reading07:](class102d50/read07.md)
-8. [Reading08:](class102d50/read08.md)
+7. [Reading07: JS Function](class102d50/read07.md)
+8. [Reading08: JS Loops and Logic](class102d50/read08.md)
 
 Class 201
 
