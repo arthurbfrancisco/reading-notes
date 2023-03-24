@@ -17,33 +17,32 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 
 Class 102
 
-1. [Reading01: Markdown](./read01.md)
-
-2. [Reading02: Terminal](./read02.md)
-3. [Reading03: VersionControl](./read03.md)
-4. [Reading04: HTML/syntax](./read04.md)
-5. [Reading05:](/.read05.md)
-6. [Reading06:](/.read06.md)
-7. [Reading07:](/.read07.md)
-8. [Reading08:](/.read08.md)
+1. [Reading01: Markdown](class102d50/read01.md)
+2. [Reading02: Terminal](class102d50/read02.md)
+3. [Reading03: VersionControl](class102d50/read03.md)
+4. [Reading04: HTML/syntax](class102d50/read04.md)
+5. [Reading05: CSS](class102d50/read05.md)
+6. [Reading06: Javascript](class102d50/read06.md)
+7. [Reading07:](class102d50/read07.md)
+8. [Reading08:](class102d50/read08.md)
 
 Class 201
 
-1. [Class01](/.read01.md)
-2. [Class02](/.read02.md)
-3. [Class03](/.read03.md)
-4. [Class04](/.read04.md)
-5. [Class05](/.read05.md)
-6. [Class06](/.read06.md)
-7. [Class07](/.read07.md)
-8. [Class08](/.read08.md)
-9. [Class09](/.read09.md)
-10. [Class10](/.read10.md)
-11. [Class11](/.read11.md)
-12. [Class12](/.read12.md)
-13. [Class13](/.read13.md)
-14. [Class14](/.read14.md)
-15. [Class15](/.read14.md)
+1. [Class01](class201/read01.md)
+2. [Class02](class201/read02.md)
+3. [Class03](class201/read03.md)
+4. [Class04](class201/read04.md)
+5. [Class05](class201/read05.md)
+6. [Class06](class201/read06.md)
+7. [Class07](class201/read07.md)
+8. [Class08](class201/read08.md)
+9. [Class09](class201/read09.md)
+10. [Class10](class201/read10.md)
+11. [Class11](class201/read11.md)
+12. [Class12](class201/read12.md)
+13. [Class13](class201/read13.md)
+14. [Class14](class201/read14.md)
+15. [Class15](class201/read15.md)
 
 ### Top three concepts to practice a Growth Mindset!
    
