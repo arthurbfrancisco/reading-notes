@@ -1,4 +1,4 @@
-# Javascript
+# Read:07-JS_Funtion
 
 ## What are functions?
 
@@ -6,9 +6,9 @@
 * Functions can be called or invoked by using their name followed by parentheses, which may include arguments or values to be passed as parameters.
 * Functions are a way to organize and reuse code, which makes programming more efficient and less repetitive.
 * Functions can take input or parameters, which are values that are passed to the function when it's called.
-* Functions can be defined using the "function" keyword, followed by a name and a set of parentheses, which may include parameters.    
- 
- **What is an operator?**
+* Functions can be defined using the "function" keyword, followed by a name and a set of parentheses, which may include parameters.
+
+### **What is an operator?**
 
 1. Assignment operator (=): Assigns a value to a variable.
 

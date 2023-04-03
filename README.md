@@ -1,10 +1,10 @@
 # Hello everyone 🖐️
 
-My name is  [Arthur](https://arthurbfrancisco.github.io/reading-notes/) 
+My name is [Arthur](https://arthurbfrancisco.github.io/reading-notes/) 
 but you can call me Art. I'm based in Sacramento, California, where I'm making the most of the great weather and focusing on developing my coding skills to become a proficient programmer. Currently, I'm delving into the basics of HTML and CSS. My ultimate objective is to establish a career as a full-stack developer specializing in Python.
 ---
 
-### This site is for reading-notes for class
+## **This site is for Notes/Information for class**
 
 - 📚 Learning the vocabulary
 - 🆔 Working with peers and sharing knowledge
@@ -13,9 +13,9 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 
 ---
 
-### Table of Contents
+## **Table of Contents**
 
-Class 102
+### Class 102: Intro to Software Development
 
 1. [Reading01: Markdown](class102d50/read01.md)
 2. [Reading02: Terminal](class102d50/read02.md)
@@ -26,27 +26,40 @@ Class 102
 7. [Reading07: JS Function](class102d50/read07.md)
 8. [Reading08: JS Loops and Logic](class102d50/read08.md)
 
-Class 201
+### Class 201: Foundations of Software Development
 
-1. [Class01](class201/read01.md)
-2. [Class02](class201/read02.md)
-3. [Class03](class201/read03.md)
-4. [Class04](class201/read04.md)
-5. [Class05](class201/read05.md)
-6. [Class06](class201/read06.md)
-7. [Class07](class201/read07.md)
-8. [Class08](class201/read08.md)
-9. [Class09](class201/read09.md)
-10. [Class10](class201/read10.md)
-11. [Class11](class201/read11.md)
-12. [Class12](class201/read12.md)
-13. [Class13](class201/read13.md)
-14. [Class14](class201/read14.md)
-15. [Class15](class201/read15.md)
+1. [Reading01:](class201/read01.md)
+2. [Reading02:](class201/read02.md)
+3. [Reading03:](class201/read03.md)
+4. [Reading04:](class201/read04.md)
+5. [Reading05:](class201/read05.md)
+6. [Reading06:](class201/read06.md)
+7. [Reading07:](class201/read07.md)
+8. [Reading08:](class201/read08.md)
+9. [Reading09:](class201/read09.md)
+10. [Reading10:](class201/read10.md)
+11. [Reading11:](class201/read11.md)
+12. [Reading12:](class201/read12.md)
+13. [Reading13:](class201/read13.md)
+14. [Reading14:](class201/read14.md)
+15. [Reading15:](class201/read15.md)
+
+### Class 301: Intermediate Software Development
+
+### Class 401: Advanced Software Development
+
+## **Things I want to know more about..**
+
+1. _CCS_
+2. _CSS: re-sizing, placing image, syntax_
+3. _Javascript_
+4. _JS: Function, Loops, Conditional_
 
 ### Top three concepts to practice a Growth Mindset!
-   
-   1. Embrace failure
-   2. Be a student for life
-   3. Ask for help
-   [My Github](https://github.com/arthurbfrancisco)
+
+   1. **Embrace failure**
+   2. **Be a student for life**
+   3. **Ask for help**
+
+
+### [My Github: Come check it out!](https://github.com/arthurbfrancisco)

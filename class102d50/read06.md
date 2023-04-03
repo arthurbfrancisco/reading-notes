@@ -1,8 +1,10 @@
-# Javascript
+# Read:06-Javascript 
 
-## What is Javascript?
+## Javascript
 
- JavaScript allows you to add interactivity to web pages. It can be used to create animations, handle user input (like form submission), and change the appearance of a page based on user actions. JavaScript is supported by all modern web browsers
+### What is Javascript?
+
+JavaScript allows you to add interactivity to web pages. It can be used to create animations, handle user input (like form submission), and change the appearance of a page based on user actions. JavaScript is supported by all modern web browsers
 
 ## All JavaScript variables must be identified with unique names.
 
