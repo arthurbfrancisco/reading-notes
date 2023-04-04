@@ -13,7 +13,7 @@ Anatomy of HTML:
 4. Closing tag: Closing tag = </h1>
 5. Self-closing tag: <img>
 
-**article> vs section TAGS**:
+**article vs section TAGS**:
 
 * article: Represent a complete, self-contained piece of content, used to contain blog posts, news articles, or other types of content that stand on their own.
 vs
