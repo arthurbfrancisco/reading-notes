@@ -55,7 +55,7 @@ Purpose:
 * What are the technical requirements for the website, such as load times, security, and mobile responsiveness?  Performs well, is Secure, its Accessible , and Scalability on different devices.
 
 h1 vs span 
-The <h1> element is a semantic HTML element that indicates the most important heading on the page. Overall, using the <h1> element for the main heading of a page is best practice in HTML and can help with SEO, accessibility, consistency, and styling.
+The h1 element is a semantic HTML element that indicates the most important heading on the page. Overall, using the h1 element for the main heading of a page is best practice in HTML and can help with SEO, accessibility, consistency, and styling.
 
 Two things Javascript requires for browser:
 JavaScript requires a browser engine to Interpret and Execute the code, and a JavaScript Runtime environment to provide the necessary environment for the code to run in the browser.

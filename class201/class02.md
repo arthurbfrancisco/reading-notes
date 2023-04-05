@@ -1,23 +1,28 @@
 # 201-Class:02
 
 **Apply CSS to our HTML?**
-Inline CSS: <h1 style="color: red;">Hello World</h1>
-Internal CSS: <style> h1 { color: red; } </style> 
-External CSS: <link rel="stylesheet" href="style.css">
+Inline CSS: h1 style="color: red;">Hello World
+Internal CSS: style> h1 { color: red; } style 
+External CSS: link rel="stylesheet" href="style.css">
 
 ## Inline style should be avoided! CSS
+
 What is representing the selector?
 Which components are the CSS declarations?
 Which components are considered properties?
 
 ### Javascripts
+
 Sequence of text enclosed in single quote marks?
 Strings can also be enclosed in double quotes, and backticks (``) can be used to create template literals
 
 List 4 types of JavaScript operators.
 1.  Arithmetic operators perform mathematical operations on numeric values, such as addition (+), subtraction (-), multiplication (*), division (/), and modulo (%).
+
 2. Comparison operators compare two values and return a Boolean value (true or false), such as equality (==), inequality (!=), strict equality (===), strict inequality (!==), greater than (>), greater than or equal to (>=), less than (<), and less than or equal to (<=
+
 3. Logical operators perform logical operations on Boolean values, such as logical AND (&&), logical OR (||), and logical NOT (!).
+
 4. Logical operators perform logical operations on Boolean values, such as logical AND (&&), logical OR (||), and logical NOT (!).
 
 **Real world Problem solve with a Function.**
