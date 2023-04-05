@@ -1,5 +1,5 @@
 # 201-Class:03
-## Learn:HTML
+## Learn:HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ### ul-ol-li
 
