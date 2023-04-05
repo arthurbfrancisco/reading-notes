@@ -30,7 +30,7 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 
 1. [Reading01: HTML, CSS, JS intto](class201/class01.md)
 2. [Reading02: Introduction to Web Development](class201/class02.md)
-3. [Reading03:](class201/class03.md)
+3. [Reading03: HTML Lists, Control Flow with JS, and the CSS Box Model](class201/class03.md)
 4. [Reading04:](class201/class04.md)
 5. [Reading05:](class201/class05.md)
 6. [Reading06:](class201/class06.md)

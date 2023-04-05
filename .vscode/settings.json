@@ -1,4 +1,5 @@
 {
     "editor.wordWrap": "on",
-    "markdown.preview.typographer": true
+    "markdown.preview.typographer": true,
+    "liveServer.settings.port": 5501
 }
