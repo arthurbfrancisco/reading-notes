@@ -47,9 +47,11 @@ In "The Box Model," margin and padding play a crucial role in setting and compro
 #### Array
 
 * JavaScript can store a variety of data types inside an array: including numbers, strings, booleans, objects, and even other arrays
-
 * Access the values stored?
-
+* data strcuture - container that holds values
+* list
+* a collection
+* we start at 0, 1, 2 etc
 **use this to check: Array.isArray()method or arrayName[index]**
 
 #### Shorthand operator
