@@ -1,6 +1,6 @@
 # 201-Class:04
 
-## Learning: HTMl, CSS, JS
+## Learning: HTML, CSS, JS
 
 To create a basic link in HTML, we use the anchor element <a> and wrap the text or other content inside it.href attribute is used in the HTML **Anchor** element to specify the URL, href attribute would be set to href="./about.html".
 
