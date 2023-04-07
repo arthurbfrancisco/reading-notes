@@ -10,7 +10,8 @@
 * Error handling
 * Social sharing: When a web page is shared on social media platforms, the alt text is often used as the default description for the image being shared.
 
-Improve accesibility:
+### Improve accesibility:
+
 * Descriptive ALT text
 * Use appropriate file formats:
 * Provide text descriptions
@@ -43,7 +44,7 @@ GIF and SVG are two different types of image file formats used on the internet. 
 1. Legibility
 2. Size
 3. Compatibility
-4.Contrast
+4. Contrast
 5. Branding
 
 ### Five rules to consider when choosing fonts for an HTML document
