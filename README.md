@@ -34,7 +34,7 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 4. [Reading04: Learning: HTMl, CSS, JS](class201/class04.md)
 5. [Reading05: Images, Color, Text (HTML/CSS](class201/class05.md)
 6. [Reading06: JavaScript Object Basics & Introduction To The DOM](class201/class06.md)
-7. [Reading07:](class201/class07.md)
+7. [Reading07: Object-Oriented Programming, HTML Tables](class201/class07.md)
 8. [Reading08:](class201/class08.md)
 9. [Reading09:](class201/class09.md)
 10. [Reading10:](class201/class10.md)
