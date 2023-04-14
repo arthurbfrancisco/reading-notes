@@ -37,7 +37,7 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 7. [Reading07: Object-Oriented Programming, HTML Tables](class201/class07.md)
 8. [Reading08: CSS Layout](class201/class08.md)
 9. [Reading09: Forms and JS Events](class201/class09.md)
-10. [Reading10:](class201/class10.md)
+10. [Reading10 Debugger JS](class201/class10.md)
 11. [Reading11:](class201/class11.md)
 12. [Reading12:](class201/class12.md)
 13. [Reading13:](class201/class13.md)
