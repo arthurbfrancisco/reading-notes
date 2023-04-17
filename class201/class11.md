@@ -18,7 +18,7 @@ A **grid container** is the parent element containing grid items; grid items are
 
 * Developers should make images responsive not only for visual appeal but also for performance optimization, as it helps reduce loading times and saves bandwidth by serving appropriately sized images for each device.
 
-The **'srcset'** attribute in the img element allows developers to provide multiple image sources with different resolutions. The 'sizes' attribute defines the width of the displayed image relative to the viewport. Together, they enable the browser to choose the most suitable image based on the device's screen size and resolution.
+* The **'srcset'** attribute in the img element allows developers to provide multiple image sources with different resolutions. The 'sizes' attribute defines the width of the displayed image relative to the viewport. Together, they enable the browser to choose the most suitable image based on the device's screen size and resolution.
 
 **ex:**
 img srcset="small.jpg 480w, medium.jpg 800w, large.jpg 1200w"
