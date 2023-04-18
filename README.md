@@ -39,7 +39,7 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 9. [Reading09: Forms and JS Events](class201/class09.md)
 10. [Reading10: Debugger JS](class201/class10.md)
 11. [Reading11: Audio, Video, Images](class201/class11.md)
-12. [Reading12:](class201/class12.md)
+12. [Reading12: Chart.js, Canvas](class201/class12.md)
 13. [Reading13:](class201/class13.md)
 14. [Reading14:](class201/class14.md)
 15. [Reading15:](class201/class15.md)
