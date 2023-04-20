@@ -41,7 +41,7 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 11. [Reading11: Audio, Video, Images](class201/class11.md)
 12. [Reading12: Chart.js, Canvas](class201/class12.md)
 13. [Reading13: Local Storage and How To Use It On Websites](class201/class13.md)
-14. [Reading14:](class201/class14.md)
+14. [Reading14: CSS Transforms & Transitions & Animations](class201/class14.md)
 15. [Reading15:](class201/class15.md)
 
 ### Class 301: Intermediate Software Development
