@@ -47,6 +47,21 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 
 ### Class 301: Intermediate Software Development
 
+1. [Reading01]()
+2. [Reading02]()
+3. [Reading03]()
+4. [Reading04]()
+5. [Reading05]()
+6. [Reading06]()
+7. [Reading07]()
+8. [Reading08]()
+9. [Reading09]()
+10. [Reading10]()
+11. [Reading11]()
+12. [Reading12]()
+13. [Reading13]()
+14. [Reading14]()
+15. [Reading15]()
 ### Class 401: Advanced Software Development
 
 #### **Things I want to know more about..**
