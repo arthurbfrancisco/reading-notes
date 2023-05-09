@@ -47,7 +47,7 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 
 ### Class 301: Intermediate Software Development
 
-1. [Reading01]()
+1. [Reading01: Introduction to React and Components](class301/class01.md)
 2. [Reading02]()
 3. [Reading03]()
 4. [Reading04]()
