@@ -1,4 +1,4 @@
-# Reading Note 1: React
+# Reading:01: Intro to React
 
 A "component" is a modular, reusable, and self-contained unit of software or hardware that serves a specific purpose within a system. In software engineering, a component can be a set of functions, classes, or objects that encapsulate a specific functionality or behavior, while in hardware, it can refer to a physical unit, such as a resistor, capacitor, or integrated circuit.
 
