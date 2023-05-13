@@ -51,7 +51,7 @@ but you can call me Art. I'm based in Sacramento, California, where I'm making t
 2. [Reading02: State and Props](class301/class02.md)
 3. [Reading03: React(Passing Functions as Props)](class301/class03.md)
 4. [Reading04: React and Forms](class301/class04.md)
-5. [Reading05](class301/class05.md)
+5. [Reading05: Thinking in React, Higher-order functions](class301/class05.md)
 6. [Reading06](class301/class06.md)
 7. [Reading07](class301/class07.md)
 8. [Reading08](class301/class08.md)
