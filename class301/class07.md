@@ -4,11 +4,11 @@
 
 Node.js is a runtime environment that allows you to run JavaScript on the server side. It's built on Chrome's V8 JavaScript engine and brings event-driven, non-blocking I/O model, which makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
-## Chrome's V8 JavaScript Engine: 
+## Chrome's V8 JavaScript Engine:
 
 Chrome's V8 JavaScript Engine is the JavaScript engine developed by Google that is used in the Chrome browser. It compiles JavaScript directly to native machine code before executing it, instead of using an interpreter or a bytecode. This makes the execution of JavaScript very fast, which is a key part of the high performance of Chrome and Node.js.
 
-## JavaScript Runtime: 
+## JavaScript Runtime:
 
 When we say Node.js is a JavaScript runtime, we mean that Node.js is a program that can interpret and execute JavaScript code. A runtime can include everything from the JavaScript engine that understands the code to the APIs that allow JavaScript to interact with the operating system.
 
@@ -16,9 +16,7 @@ When we say Node.js is a JavaScript runtime, we mean that Node.js is a program t
 
 npm is the default package manager for Node.js. It's used to install and manage package dependencies. It comes bundled with Node.js by default. npm is also the registry where these packages are hosted.
 
-### Node and npm versions: 
-
-As an AI, I don't run on a specific machine and thus don't have a version of Node.js or npm installed. However, you can check the versions of Node.js and npm on your own machine by running node -v and npm -v respectively in your command line.
+### Node and npm versions:
 
 ### Installing a package:
 
