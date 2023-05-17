@@ -1,4 +1,4 @@
-# Reading 08:NODE.APIs
+# Reading 08:APIs
 
 *REST* stands for Representational State Transfer. It is an architectural style for networked hypermedia applications, often used in web services development.
 
