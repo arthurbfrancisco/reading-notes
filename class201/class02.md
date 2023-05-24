@@ -11,6 +11,12 @@ What is representing the selector?
 Which components are the CSS declarations?
 Which components are considered properties?
 
+Selector: In CSS, a selector is used to target and select specific HTML elements on a web page. It determines which elements the CSS rules should be applied to. Selectors can target elements based on their tag name, class, ID, attributes, or relationship with other elements. For example, the selector ".my-class" targets all elements with the class name "my-class".
+
+CSS Declarations: CSS declarations consist of one or more property-value pairs that define the visual appearance and behavior of the selected elements. Each declaration is enclosed within curly braces ({}) and contains a property and its corresponding value. For example, in the declaration "color: red;", "color" is the property, and "red" is its value. Multiple declarations can be grouped together within the same selector.
+
+Properties: CSS properties are the individual visual or behavioral characteristics that you can apply to selected elements. They specify aspects such as color, size, font, margin, padding, positioning, and more. Examples of CSS properties include "color", "font-size", "margin-top", "background-image", "border-radius", etc. Each property has its own set of accepted values that determine how it affects the appearance or behavior of the targeted elements.
+
 ### Javascripts
 
 Sequence of text enclosed in single quote marks?

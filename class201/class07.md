@@ -22,9 +22,9 @@ This can be useful for a variety of purposes, such as software development, data
 
 **Three different semantic HTML elements used in an HTML table are:**
 
-1. <caption>: This element provides a title or caption for the table and is typically placed at the top of the table.
-2. <thead>: This element is used to group the header content in a table. It typically includes <tr> and <th> elements.
-3. <tbody>: This element is used to group the body content in a table. It typically includes one or more <tr> elements.
+1. caption: This element provides a title or caption for the table and is typically placed at the top of the table.
+2. thead: This element is used to group the header content in a table. It typically includes tr and th elements.
+3. tbody: This element is used to group the body content in a table. It typically includes one or more <tr> elements.
 
 #### Introducing Constructors
 
